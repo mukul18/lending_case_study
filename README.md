@@ -31,6 +31,10 @@ Python3 and below pyhton libraries -
 - matplotlib: A comprehensive library for creating static, animated, and interactive visualizations in Python. (To plot graphs)
 - seaborn: A data visualization library built on top of matplotlib (To plot graphs)
 
+## Summary of the analysis
+- Univariate Analysis
+- Segmented Univariate Analysis
+- Bi-variate Analysis
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -46,10 +50,7 @@ DrivingFactors(or driver variables):
 ## Acknowledgements
 This project is part of "Executive PG Programme in Machine Learning & AI" sponsed through UPGRAD with Joint collaboration of IIIT-B
 
-## Summary of the analysis and key take-aways
-- Univariate Analysis
-- Segmented Univariate Analysis
-- Bi-variate Analysis
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
