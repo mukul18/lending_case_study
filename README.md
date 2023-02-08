@@ -53,15 +53,6 @@ This project is part of "Executive PG Programme in Machine Learning & AI" sponse
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
-## Technologies Used
-- numpy
-- pandas 
-- matplotlib.pyplot
-- missingno
-- seaborn
-- datetime 
-
 ## Contact
 Created by -
 
