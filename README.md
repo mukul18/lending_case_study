@@ -46,6 +46,22 @@ DrivingFactors(or driver variables):
 ## Acknowledgements
 This project is part of "Executive PG Programme in Machine Learning & AI" sponsed through UPGRAD with Joint collaboration of IIIT-B
 
+## Summary of the analysis and key take-aways
+- Univariate Analysis
+- Segmented Univariate Analysis
+- Bi-variate Analysis
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+
+## Technologies Used
+- numpy
+- pandas 
+- matplotlib.pyplot
+- missingno
+- seaborn
+- datetime 
+
 ## Contact
 Created by -
 
